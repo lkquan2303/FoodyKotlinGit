@@ -5,4 +5,7 @@
     <color name="colorAccent">#D81B60</color>
     <color name="texttr">#FFFFFF</color>
     <color name="background">#21AF2B</color>
+    <color name="white">#FFFFFF</color>
+    <color name="fb">#4254FA</color>
+
 </resources>
