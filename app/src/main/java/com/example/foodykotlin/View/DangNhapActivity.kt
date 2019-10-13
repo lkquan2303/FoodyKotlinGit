@@ -43,8 +43,7 @@ class DangNhapActivity : AppCompatActivity(), GoogleApiClient.OnConnectionFailed
         {
             var intent = Intent(this, TrangChuActivity :: class.java)
             startActivity(intent)
-            FirebaseAuth.getInstance().signOut()
-            pd.dismiss()
+ //           FirebaseAuth.getInstance().signOut()
         }
         else
         {
